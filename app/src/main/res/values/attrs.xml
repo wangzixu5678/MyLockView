@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!--九宫格解锁-->
+
+    <declare-styleable name="LockView">
+        <attr name="lViewWidth" format="dimension"/>
+        <attr name="lViewHeight" format="dimension"/>
+        <attr name="pointColor" format="color"/>
+        <attr name="pointRadius" format="dimension"/>
+    </declare-styleable>
+</resources>
